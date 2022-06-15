@@ -2,4 +2,27 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
 }
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+#featured-property{
+  text-align: center;
+}
+
+#featured-property >p{
+  width: 800px;
+  text-align: justify;
+  margin-left: 250px;
+}
+div{
+  float: left;
+  text-align: center;
+  width:25%;
+  background-color: aquamarine;
+}
+
